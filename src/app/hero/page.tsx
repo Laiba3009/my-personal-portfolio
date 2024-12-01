@@ -24,8 +24,8 @@ function Hero() {
             <span className="text-orange-600">Front-End Developer</span>
           </h1>
           <p data-aos="zoom-in" className="text-lg text-yellow-100 py-5">
-            I build beautiful, responsive, scalable, and functional websites. 
-            Explore my portfolio to see my work in action and let's connect to build something amazing together!
+            I build beautiful responsive scalable and functional websites. 
+            Explore my portfolio to see my work in action and lets connect to build something amazing together!
           </p>
           <div data-aos="zoom-in" className="flex justify-center md:justify-start gap-4 mb-6">
             <a href="https://github.com/Laiba3009" className="text-white hover:text-gray-600">
