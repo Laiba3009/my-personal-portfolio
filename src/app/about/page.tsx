@@ -17,12 +17,12 @@ function About() {
       <div className="w-full md:w-[600px] text-center md:ml-6 md:text-left">
         <h2 data-aos="zoom-out-up" className="text-4xl font-semibold text-orange-600 mb-4">About Me</h2>
         <p data-aos="zoom-in" className="text-lg text-yellow-100 mt-6">
-          I am a Frontend Developer with a passion for creating high-quality,
-          responsive, and scalable websites. With a strong foundation in HTML,
-          CSS, and TypeScript, Next.js. I am a student at GIAIC, pursuing a
+          I am a Frontend Developer with a passion for creating high-quality
+          responsive and scalable websites. With a strong foundation in HTML
+          CSS and TypeScript Next.js. I am a student at GIAIC pursuing a
           course in Artificial Intelligence. Passionate about technology and
           constantly learning new skills to stay up-to-date with the latest
-          innovations. Take a look around and let's get in touch.
+          innovations. Take a look around and lets get in touch.
         </p>
         <div data-aos="zoom-in" className="flex justify-center space-x-6">
           <a href="https://github.com/Laiba3009" className="text-white hover:text-gray-600 text-4xl">
