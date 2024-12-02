@@ -28,8 +28,8 @@ function Hero() {
           </h1>
 
           <p data-aos="zoom-in" className="text-lg text-yellow-100 py-5">
-            I build beautiful, responsive, scalable, and functional websites. 
-            Explore my portfolio to see my work in action and let's connect to build something amazing together!
+            I build beautiful responsive scalable and functional websites. 
+            Explore my portfolio to see my work in action and lets connect to build something amazing together!
           </p>
 
           <div data-aos="zoom-in" className="flex justify-center md:justify-start gap-4 mb-6">
